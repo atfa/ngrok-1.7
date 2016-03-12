@@ -32,7 +32,7 @@ are only available by creating an account on ngrok.com. If you need them, [creat
 
 ## Install
 - [One click Install ngrok]
-[wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh]
+wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh
 
 
 ## Developing on ngrok
