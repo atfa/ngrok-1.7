@@ -1,3 +1,4 @@
+# ngrok - one key install shell(wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh)
 <<<<<<< HEAD
 # ngrok - Introspected tunnels to localhost ([homepage](https://ngrok.com))
 ### "I want to securely expose a web server to the internet and capture all traffic for detailed inspection and replay"
