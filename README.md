@@ -1,5 +1,3 @@
-# ngrok - one key install shell
-wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh
 <<<<<<< HEAD
 # ngrok - Introspected tunnels to localhost ([homepage](https://ngrok.com))
 ### "I want to securely expose a web server to the internet and capture all traffic for detailed inspection and replay"
@@ -31,6 +29,10 @@ are only available by creating an account on ngrok.com. If you need them, [creat
 - [Linux](https://dl.ngrok.com/linux_386/ngrok.zip)
 - [Mac OSX](https://dl.ngrok.com/darwin_386/ngrok.zip)
 - [Windows](https://dl.ngrok.com/windows_386/ngrok.zip)
+
+## Install
+- [One click Install ngrok]
+[wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh]
 
 
 ## Developing on ngrok
