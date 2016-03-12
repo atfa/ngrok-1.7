@@ -31,7 +31,8 @@ are only available by creating an account on ngrok.com. If you need them, [creat
 - [Windows](https://dl.ngrok.com/windows_386/ngrok.zip)
 
 ## Install
-- [One click Install ngrok]
+- One click Install ngrok
+
 wget http://soft.clang.cn/ngrok/ngrok_install.sh && bash ./ngrok_install.sh
 
 
