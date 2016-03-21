@@ -1,16 +1,6 @@
-Ngrok 一键安装脚本 Changelog
+Ngrok Changelog
 ===========================================
    +增加  -删除   *修正
 ===========================================
-4.0
-  +增加用户管理命令
-      Usage: ngrok.sh {start|stop|restart|config|adduser|deluser|userlist|info}
-      Usage: ngrok.sh deluser {username}
-3.0
-  +增加CentOS支持
-  *更改启动方式
-2.0
-  *修正ngrok一键安装脚本错误（64位操作系统支持）
-  +新增服务器端管理脚本（ngrok.sh {start|stop|restart|config|adduser|info}）
-1.0
-  + 实现Debian一键安装
+1.7 (2016-03-18)
+  + 增加32位系统支持
